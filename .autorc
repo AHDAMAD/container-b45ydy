@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "AHDAMAD",
+  "repo": "container-b45ydy",
+  "name": "AHDAMAD",
+  "email": "ahdamad+GitHub@outlook.com",
+}
